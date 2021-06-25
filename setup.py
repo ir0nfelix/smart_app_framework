@@ -25,7 +25,7 @@ setup(
         "boto==2.49.0",
         "confluent_kafka==1.1.0",
         "croniter",
-        "dawg==0.8.0",
+        #"dawg==0.8.0",
         "dill==0.3.3",
         "h5py<3.0.0",
         "ics==0.6",

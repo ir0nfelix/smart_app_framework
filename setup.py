@@ -43,7 +43,7 @@ setup(
         "pymorphy2_dicts==2.4.393442.3710985",
         "python-dateutil==2.7.3",
         "python-json-logger==0.1.11",
-        "PyYAML==5.3",
+        # "PyYAML==5.3",
         "redis",
         "requests==2.22.0",
         "rnnmorph==0.4.0",
@@ -55,7 +55,7 @@ setup(
         "tensorflow==1.15",
         "timeout-decorator==0.4.1",
         "tqdm",
-        "Twisted"
+        # "Twisted"
     ],
     classifiers=[
         "Programming Language :: Python :: 3.6",
